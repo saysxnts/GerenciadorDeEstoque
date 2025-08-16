@@ -1,0 +1,15 @@
+C:\users\guilherme\desktop\codes\GerenciadorDeEstoque\bin\Debug\net9.0\GerenciadorDeEstoque.exe
+C:\users\guilherme\desktop\codes\GerenciadorDeEstoque\bin\Debug\net9.0\GerenciadorDeEstoque.deps.json
+C:\users\guilherme\desktop\codes\GerenciadorDeEstoque\bin\Debug\net9.0\GerenciadorDeEstoque.runtimeconfig.json
+C:\users\guilherme\desktop\codes\GerenciadorDeEstoque\bin\Debug\net9.0\GerenciadorDeEstoque.dll
+C:\users\guilherme\desktop\codes\GerenciadorDeEstoque\bin\Debug\net9.0\GerenciadorDeEstoque.pdb
+C:\users\guilherme\desktop\codes\GerenciadorDeEstoque\obj\Debug\net9.0\GerenciadorDeEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\users\guilherme\desktop\codes\GerenciadorDeEstoque\obj\Debug\net9.0\GerenciadorDeEstoque.AssemblyInfoInputs.cache
+C:\users\guilherme\desktop\codes\GerenciadorDeEstoque\obj\Debug\net9.0\GerenciadorDeEstoque.AssemblyInfo.cs
+C:\users\guilherme\desktop\codes\GerenciadorDeEstoque\obj\Debug\net9.0\GerenciadorDeEstoque.csproj.CoreCompileInputs.cache
+C:\users\guilherme\desktop\codes\GerenciadorDeEstoque\obj\Debug\net9.0\GerenciadorDeEstoque.sourcelink.json
+C:\users\guilherme\desktop\codes\GerenciadorDeEstoque\obj\Debug\net9.0\GerenciadorDeEstoque.dll
+C:\users\guilherme\desktop\codes\GerenciadorDeEstoque\obj\Debug\net9.0\refint\GerenciadorDeEstoque.dll
+C:\users\guilherme\desktop\codes\GerenciadorDeEstoque\obj\Debug\net9.0\GerenciadorDeEstoque.pdb
+C:\users\guilherme\desktop\codes\GerenciadorDeEstoque\obj\Debug\net9.0\GerenciadorDeEstoque.genruntimeconfig.cache
+C:\users\guilherme\desktop\codes\GerenciadorDeEstoque\obj\Debug\net9.0\ref\GerenciadorDeEstoque.dll
